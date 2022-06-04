@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on F8D Blog</title>
+    <link>https://f8d.ca/blog/azure/</link>
+    <description>Recent content in Azure on F8D Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2016-2022 Gabor Sos.</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://f8d.ca/blog/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running OSTicket on Azure #1</title>
+      <link>https://f8d.ca/osticket1/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://f8d.ca/osticket1/</guid>
+      <description>I recently deployed and configured the excellent OSTicket support ticketing system at my work. This was a fun project where I learned a lot that warrants a series of articles.
+ Architecture: Setting up OSticket for speed and reliability in Azure Prepare the database: Cost, performance and security considerations Prepare the web server: Azure app service, startup script and dealing with cronjobs. Deployment and slots : Leveraging Git and the Azure deployment slot model Configuration management: Environmental variables and the Azure key vault Wishlist.</description>
+    </item>
+    
+  </channel>
+</rss>

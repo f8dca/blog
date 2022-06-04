@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on F8D Blog</title>
+    <link>https://f8d.ca/blog/</link>
+    <description>Recent content in Blog on F8D Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2016-2022 Gabor Sos.</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://f8d.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello new blog</title>
+      <link>https://f8d.ca/hello-new-blog/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://f8d.ca/hello-new-blog/</guid>
+      <description>The old wordpress blog got dated, its maintenance became too much work, the performance was mediocre and there were way to many security problems with it. It lost its lustere and became a chore.
+Time to upgrade to something better, leaner, more fun.
+When I was thinking about possible replcements it occured to me that I have a very large static web site already available to me, courtesy of my email provider Fastmail</description>
+    </item>
+    
+    <item>
+      <title>Running OSTicket on Azure #1</title>
+      <link>https://f8d.ca/osticket1/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://f8d.ca/osticket1/</guid>
+      <description>I recently deployed and configured the excellent OSTicket support ticketing system at my work. This was a fun project where I learned a lot that warrants a series of articles.
+ Architecture: Setting up OSticket for speed and reliability in Azure Prepare the database: Cost, performance and security considerations Prepare the web server: Azure app service, startup script and dealing with cronjobs. Deployment and slots : Leveraging Git and the Azure deployment slot model Configuration management: Environmental variables and the Azure key vault Wishlist.</description>
+    </item>
+    
+  </channel>
+</rss>

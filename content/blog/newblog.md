@@ -3,21 +3,20 @@ title = "Hello new blog"
 date = "2020-01-03"
 description = "Moving to new digs."
 tags = ["markdown" , "Hugo", "Technology"]
-
 +++
 
+The old wordpress blog got dated, its maintenance became too much work, the performance was mediocre and there were way to many security problems with it. It lost its lustere and became a chore.
 
-The old wordpress blog got dated, its maintenance became too much work, the performance was mediocre and there were way to many security problems with it.
+Time to upgrade to something better, leaner, more fun.
 
-Time to upgrade to something better.
-
-When I was thinking about possible replcements it occured to me that I have a very large static web site already available to me courtesy of my email provider [Fastmail](https://fastmail.com)
+When I was thinking about possible replcements it occured to me that I have a very large static web site already available to me, courtesy of my email provider [Fastmail](https://fastmail.com)
 
 My other requirements were:
--  A static single binary for the generator for drop in deployment ( no python , java, javascypt , node etc)
+-  A static single binary for the generator for drop in deployment ( no python , no java, no javascypt , node etc)
 -  Fast site generation with live preview
 -  Deep git integration
 -  Easy deployment pipelines
+-  Plain text files based 
 -  Markdown & Mermaid.js support
 -  Rich ecosystem with plenty of community to support it
 -  Open-Source
@@ -41,7 +40,7 @@ Then I was reading an article by Herman Martinus  over at [BearBlog](https://bea
 
 So here we are: My new blog is based on the excellent Hugo [BearBlog template](https://github.com/janraasch/hugo-bearblog)
 
-Stay tuned while I migaret my content from the old wordpress site.
+Stay tuned while I migrate my content from the old wordpress site.
 
 G.
 

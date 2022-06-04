@@ -26,4 +26,4 @@ menu = "main"
 ---
 
 My open source on [GitHub](https://github.com/f8dca).  
-My bio on [LinkedIn](https://linkedin.com/f8d).
+My bio on [LinkedIn](https://www.linkedin.com/in/f8d/).
