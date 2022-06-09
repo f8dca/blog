@@ -1,1 +1,1 @@
-rclone copy C:\Users\gabor.sos\OneDrive\Websites\blog\public\ webdav_f8d_ca:\wwwroot\
+rclone copy %OneDriveConsumer%\Websites\blog\public\ webdav_f8d_ca:\wwwroot\
